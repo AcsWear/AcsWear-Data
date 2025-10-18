@@ -1,8 +1,9 @@
 {
-    "latest": "1.3",
+    "latest": "1.4",
     "updateurl": "https://raw.githubusercontent.com/AcsWear/AcsWear-Data/main/AcsWear.lua",
     "telemetry": false
 }
+
 
 
 
